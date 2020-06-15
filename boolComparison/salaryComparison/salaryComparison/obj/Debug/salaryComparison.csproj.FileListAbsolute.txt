@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\bin\Debug\salaryComparison.exe.config
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\bin\Debug\salaryComparison.exe
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\bin\Debug\salaryComparison.pdb
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\obj\Debug\salaryComparison.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\obj\Debug\salaryComparison.exe
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\obj\Debug\salaryComparison.pdb
+C:\Users\Andrew Smith\Desktop\salaryComparison\salaryComparison\obj\Debug\salaryComparison.csprojAssemblyReference.cache
