@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\bin\Debug\mathematics.exe.config
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\bin\Debug\mathematics.exe
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\bin\Debug\mathematics.pdb
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\obj\Debug\mathematics.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\obj\Debug\mathematics.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\obj\Debug\mathematics.exe
+C:\Users\Andrew Smith\Desktop\mathematics\mathematics\obj\Debug\mathematics.pdb
