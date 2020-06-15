@@ -1,0 +1,6 @@
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\bin\Debug\boolWhile.exe.config
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\bin\Debug\boolWhile.exe
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\bin\Debug\boolWhile.pdb
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\obj\Debug\boolWhile.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\obj\Debug\boolWhile.exe
+C:\Users\Andrew Smith\Desktop\boolWhile\boolWhile\obj\Debug\boolWhile.pdb
