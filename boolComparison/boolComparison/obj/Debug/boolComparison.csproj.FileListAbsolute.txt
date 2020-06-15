@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\bin\Debug\boolComparison.exe.config
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\bin\Debug\boolComparison.exe
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\bin\Debug\boolComparison.pdb
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\obj\Debug\boolComparison.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\obj\Debug\boolComparison.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\obj\Debug\boolComparison.exe
+C:\Users\Andrew Smith\Desktop\boolComparison\boolComparison\obj\Debug\boolComparison.pdb
