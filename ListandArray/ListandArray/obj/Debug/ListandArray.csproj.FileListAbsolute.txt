@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\bin\Debug\ListandArray.exe.config
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\bin\Debug\ListandArray.exe
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\bin\Debug\ListandArray.pdb
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\obj\Debug\ListandArray.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\obj\Debug\ListandArray.exe
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\obj\Debug\ListandArray.pdb
+C:\Users\Andrew Smith\Desktop\ListandArray\ListandArray\obj\Debug\ListandArray.csprojAssemblyReference.cache
