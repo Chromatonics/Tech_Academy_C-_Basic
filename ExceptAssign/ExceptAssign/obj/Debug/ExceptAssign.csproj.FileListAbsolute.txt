@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\bin\Debug\ExceptAssign.exe.config
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\bin\Debug\ExceptAssign.exe
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\bin\Debug\ExceptAssign.pdb
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\obj\Debug\ExceptAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\obj\Debug\ExceptAssign.exe
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\obj\Debug\ExceptAssign.pdb
+C:\Users\Andrew Smith\Desktop\ExceptAssign\ExceptAssign\obj\Debug\ExceptAssign.csprojAssemblyReference.cache
