@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\bin\Debug\stringBuild.exe.config
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\bin\Debug\stringBuild.exe
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\bin\Debug\stringBuild.pdb
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\obj\Debug\stringBuild.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\obj\Debug\stringBuild.exe
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\obj\Debug\stringBuild.pdb
+C:\Users\Andrew Smith\Desktop\stringBuild\stringBuild\obj\Debug\stringBuild.csprojAssemblyReference.cache
