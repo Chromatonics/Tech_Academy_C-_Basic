@@ -1,0 +1,13 @@
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.exe
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.deps.json
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.runtimeconfig.json
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.runtimeconfig.dev.json
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.dll
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\bin\Debug\netcoreapp3.1\assignment174.pdb
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.AssemblyInfoInputs.cache
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.AssemblyInfo.cs
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.dll
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.pdb
+C:\Users\Andrew Smith\Desktop\assignment174\assignment174\obj\Debug\netcoreapp3.1\assignment174.genruntimeconfig.cache
