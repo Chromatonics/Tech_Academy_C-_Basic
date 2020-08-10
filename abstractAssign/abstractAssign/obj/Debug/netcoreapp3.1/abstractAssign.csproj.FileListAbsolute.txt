@@ -11,3 +11,16 @@ C:\Users\Andrew Smith\Desktop\abstractAssign\abstractAssign\obj\Debug\netcoreapp
 C:\Users\Andrew Smith\Desktop\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.dll
 C:\Users\Andrew Smith\Desktop\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.pdb
 C:\Users\Andrew Smith\Desktop\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.genruntimeconfig.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.exe
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.deps.json
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.runtimeconfig.json
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.runtimeconfig.dev.json
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.dll
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\bin\Debug\netcoreapp3.1\abstractAssign.pdb
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.AssemblyInfoInputs.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.AssemblyInfo.cs
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.dll
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.pdb
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\abstractAssign\abstractAssign\obj\Debug\netcoreapp3.1\abstractAssign.genruntimeconfig.cache
