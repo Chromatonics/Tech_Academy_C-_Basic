@@ -10,6 +10,9 @@ namespace abstractAssign
             sample.FirstName = "Sample";
             sample.LastName = "Student";
             sample.SayName();
+
+            Employee welcome = new Employee();
+            welcome.Quit();
             Console.ReadLine();
         }
     }

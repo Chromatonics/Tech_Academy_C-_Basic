@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew Smith\\Desktop\\assignment169\\assignment169\\assignment169.csproj": {}
+    "C:\\Users\\Andrew Smith\\Documents\\GitHub\\Tech_Academy_C-_Basic\\assignment169\\assignment169\\assignment169.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew Smith\\Desktop\\assignment169\\assignment169\\assignment169.csproj": {
+    "C:\\Users\\Andrew Smith\\Documents\\GitHub\\Tech_Academy_C-_Basic\\assignment169\\assignment169\\assignment169.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew Smith\\Desktop\\assignment169\\assignment169\\assignment169.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew Smith\\Documents\\GitHub\\Tech_Academy_C-_Basic\\assignment169\\assignment169\\assignment169.csproj",
         "projectName": "assignment169",
-        "projectPath": "C:\\Users\\Andrew Smith\\Desktop\\assignment169\\assignment169\\assignment169.csproj",
+        "projectPath": "C:\\Users\\Andrew Smith\\Documents\\GitHub\\Tech_Academy_C-_Basic\\assignment169\\assignment169\\assignment169.csproj",
         "packagesPath": "C:\\Users\\Andrew Smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew Smith\\Desktop\\assignment169\\assignment169\\obj\\",
+        "outputPath": "C:\\Users\\Andrew Smith\\Documents\\GitHub\\Tech_Academy_C-_Basic\\assignment169\\assignment169\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew Smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
