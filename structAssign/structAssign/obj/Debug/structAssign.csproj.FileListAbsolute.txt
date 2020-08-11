@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\bin\Debug\structAssign.exe.config
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\bin\Debug\structAssign.exe
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\bin\Debug\structAssign.pdb
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\obj\Debug\structAssign.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\obj\Debug\structAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\obj\Debug\structAssign.exe
+C:\Users\Andrew Smith\source\repos\structAssign\structAssign\obj\Debug\structAssign.pdb
