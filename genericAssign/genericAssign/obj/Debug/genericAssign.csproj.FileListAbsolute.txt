@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\bin\Debug\genericAssign.exe.config
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\bin\Debug\genericAssign.exe
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\bin\Debug\genericAssign.pdb
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\obj\Debug\genericAssign.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\obj\Debug\genericAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\obj\Debug\genericAssign.exe
+C:\Users\Andrew Smith\Desktop\genericAssign\genericAssign\obj\Debug\genericAssign.pdb
