@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\bin\Debug\fileLog.exe.config
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\bin\Debug\fileLog.exe
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\bin\Debug\fileLog.pdb
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\obj\Debug\fileLog.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\obj\Debug\fileLog.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\obj\Debug\fileLog.exe
+C:\Users\Andrew Smith\Desktop\fileLog\fileLog\obj\Debug\fileLog.pdb
