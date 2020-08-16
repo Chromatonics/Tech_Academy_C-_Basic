@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\obj\Debug\enumAssign.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\obj\Debug\enumAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\bin\Debug\enumAssign.exe.config
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\bin\Debug\enumAssign.exe
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\bin\Debug\enumAssign.pdb
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\obj\Debug\enumAssign.exe
+C:\Users\Andrew Smith\Desktop\enumAssign\enumAssign\obj\Debug\enumAssign.pdb
