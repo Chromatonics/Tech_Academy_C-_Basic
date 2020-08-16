@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\bin\Debug\methodAssign1.exe.config
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\bin\Debug\methodAssign1.exe
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\bin\Debug\methodAssign1.pdb
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\obj\Debug\methodAssign1.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\obj\Debug\methodAssign1.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\obj\Debug\methodAssign1.exe
+C:\Users\Andrew Smith\source\repos\methodAssign1\methodAssign1\obj\Debug\methodAssign1.pdb
