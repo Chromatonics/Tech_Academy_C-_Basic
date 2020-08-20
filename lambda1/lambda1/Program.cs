@@ -46,7 +46,12 @@ namespace lambda1
             Console.ReadLine();
 
 
-
+            List<Person> idList = employee.Where(y => y.Id > 5).ToList();
+            foreach (Person h in idList)
+            {
+                Console.WriteLine(h);
+            }
+            Console.ReadLine();
         }
     }
 }
