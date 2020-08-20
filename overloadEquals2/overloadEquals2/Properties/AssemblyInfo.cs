@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("overloadEquals")]
+[assembly: AssemblyTitle("overloadEquals2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("overloadEquals")]
+[assembly: AssemblyProduct("overloadEquals2")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("61d6d8da-4a60-4c18-8737-2a1da993166c")]
+[assembly: Guid("8ad802c6-2fb2-4dd6-a1f6-c02e715115d7")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{61D6D8DA-4A60-4C18-8737-2A1DA993166C}</ProjectGuid>
+    <ProjectGuid>{8AD802C6-2FB2-4DD6-A1F6-C02E715115D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>overloadEquals</RootNamespace>
-    <AssemblyName>overloadEquals</AssemblyName>
+    <RootNamespace>overloadEquals2</RootNamespace>
+    <AssemblyName>overloadEquals2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,9 +45,7 @@
   <ItemGroup>
     <Compile Include="Employee.cs" />
     <Compile Include="Person.cs" />
-    <Compile Include="..\..\..\..\Desktop\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,0 @@
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\bin\Debug\overloadEquals.exe.config
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\bin\Debug\overloadEquals.exe
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\bin\Debug\overloadEquals.pdb
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\obj\Debug\overloadEquals.csprojAssemblyReference.cache
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\obj\Debug\overloadEquals.csproj.CoreCompileInputs.cache
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\obj\Debug\overloadEquals.exe
-C:\Users\Andrew Smith\source\repos\overloadEquals\overloadEquals\obj\Debug\overloadEquals.pdb
