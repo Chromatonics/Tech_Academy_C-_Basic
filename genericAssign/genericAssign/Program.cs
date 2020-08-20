@@ -8,22 +8,34 @@ namespace genericAssign
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Employee<string> things1 = new Employee<string>();
             things1.Things = new List<string>();
 
-            things1.Things= "Blue";
+            things1.Things.Add("Blue");
             things1.Things.Add("Yellow");
             things1.Things.Add("Purple");
             things1.Things.Add("Red");
 
-            Console.WriteLine(things1);
+            foreach (string s in things1.Things)
+            {
+                Console.WriteLine(s);
+            }
+            Console.ReadLine();
 
-            //printer.Things<int>(100);
-            //printer.Things(200);
-            //printer.Things(300);
-            //printer.Things(400);
+            Employee<int> things2 = new Employee<int>();
+            things2.Things = new List<int>();
+
+            things2.Things.Add(2);
+            things2.Things.Add(11);
+            things2.Things.Add(37);
+            things2.Things.Add(9);
+
+            foreach (int u in things2.Things)
+            {
+                Console.WriteLine(u);
+            }
             Console.ReadLine();
         }
     }

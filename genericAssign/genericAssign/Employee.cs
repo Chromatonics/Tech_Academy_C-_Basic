@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace genericAssign 
 {
-    class Employee<T>
+    public class Employee<T>
     {
         public List<T> Things { get; set; }
     }
