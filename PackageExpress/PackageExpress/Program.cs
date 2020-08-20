@@ -20,46 +20,49 @@ namespace Branching
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Express.Please follow the instructions below.");
-
-            Console.WriteLine("Please enter package weight:");
-            string weight = Console.ReadLine();
-            int packWeight = Convert.ToInt32(weight);
-
-            if (packWeight <= 50)
+            try
             {
-                Console.WriteLine("Your package weight is acceptable");
-            }
-            else
+                Console.WriteLine("Please enter package weight:");
+                string weight = Console.ReadLine();
+                int packWeight = Convert.ToInt32(weight);
+
+                if (packWeight > 50)
+                {
+                    throw new ArgumentException();
+                }
+                Console.WriteLine("Please enter package height:");
+                string height = Console.ReadLine();
+                int packHeight = Convert.ToInt32(height);
+
+                Console.WriteLine("Please enter package width:");
+                string width = Console.ReadLine();
+                int packWidth = Convert.ToInt32(width);
+
+                Console.WriteLine("Please enter package length:");
+                string length = Console.ReadLine();
+                int packLength = Convert.ToInt32(length);
+
+                int dimensions = packHeight + packWidth + packLength;
+                if (dimensions > 50)
+                {
+                    throw new Exception();
+                }
+                int quote = dimensions * packWeight / 100;
+                Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ".00");
+
+                Console.WriteLine("Thank you!");
+                Console.ReadLine();
+            }   
+            catch(ArgumentException)
             {
-                Console.WriteLine("Your package must be less than or equal to 50 lbs");
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
             }
-
-
-
-            Console.WriteLine("Please enter package height:");
-            string height = Console.ReadLine();
-            int packHeight = Convert.ToInt32(height);
-
-            Console.WriteLine("Please enter package width:");
-            string width = Console.ReadLine();
-            int packWidth = Convert.ToInt32(width);
-
-            Console.WriteLine("Please enter package length:");
-            string length = Console.ReadLine();
-            int packLength = Convert.ToInt32(length);
-
-            int dimensions = packHeight + packWidth + packLength;
-
-            if (dimensions > 50)
+            catch (Exception)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
             }
-
-            int quote = dimensions * packWeight / 100;
-            Console.WriteLine("Your estimated total for shipping this package is:$" + quote + ".00");
-
-            Console.WriteLine("Thank you!");
-            Console.ReadLine();
         }
     }
 }
