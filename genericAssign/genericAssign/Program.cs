@@ -10,17 +10,20 @@ namespace genericAssign
     {
         static void Main(string[] args)
         {
-            Employee printer = new Employee();
+            Employee<string> things1 = new Employee<string>();
+            things1.Things = new List<string>();
 
-            printer.Things<string>("Blue");
-            printer.Things("Yellow");
-            printer.Things("Purple");
-            printer.Things("Red");
+            things1.Things= "Blue";
+            things1.Things.Add("Yellow");
+            things1.Things.Add("Purple");
+            things1.Things.Add("Red");
 
-            printer.Things<int>(100);
-            printer.Things(200);
-            printer.Things(300);
-            printer.Things(400);
+            Console.WriteLine(things1);
+
+            //printer.Things<int>(100);
+            //printer.Things(200);
+            //printer.Things(300);
+            //printer.Things(400);
             Console.ReadLine();
         }
     }

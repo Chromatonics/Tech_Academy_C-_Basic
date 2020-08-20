@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace genericAssign 
+namespace PackageExpress
 {
-    class Employee<T>
+    public class Exception1
     {
-        public List<T> Things { get; set; }
+
     }
 }

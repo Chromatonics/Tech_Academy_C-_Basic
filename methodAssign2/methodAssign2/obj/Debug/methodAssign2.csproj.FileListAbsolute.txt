@@ -5,3 +5,10 @@ C:\Users\Andrew Smith\Desktop\methodAssign2\methodAssign2\obj\Debug\methodAssign
 C:\Users\Andrew Smith\Desktop\methodAssign2\methodAssign2\obj\Debug\methodAssign2.csproj.CoreCompileInputs.cache
 C:\Users\Andrew Smith\Desktop\methodAssign2\methodAssign2\obj\Debug\methodAssign2.exe
 C:\Users\Andrew Smith\Desktop\methodAssign2\methodAssign2\obj\Debug\methodAssign2.pdb
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\bin\Debug\methodAssign2.exe.config
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\bin\Debug\methodAssign2.exe
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\bin\Debug\methodAssign2.pdb
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\obj\Debug\methodAssign2.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\obj\Debug\methodAssign2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\obj\Debug\methodAssign2.exe
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\methodAssign2\methodAssign2\obj\Debug\methodAssign2.pdb

@@ -5,3 +5,10 @@ C:\Users\Andrew Smith\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExp
 C:\Users\Andrew Smith\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
 C:\Users\Andrew Smith\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
 C:\Users\Andrew Smith\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+C:\Users\Andrew Smith\Documents\GitHub\Tech_Academy_C-_Basic\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb

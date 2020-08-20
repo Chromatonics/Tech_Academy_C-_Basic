@@ -1,6 +1,8 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,6 +10,13 @@ namespace Branching
 {
     class Program
     {
+        static void ProcessString(string s)
+        {
+            if (s == null)
+            {
+                throw new ArgumentNullException();
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Express.Please follow the instructions below.");
@@ -16,12 +25,15 @@ namespace Branching
             string weight = Console.ReadLine();
             int packWeight = Convert.ToInt32(weight);
 
-            if (packWeight > 50)
+            if (packWeight <= 50)
             {
-                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
-                Console.ReadLine();
-                return;
-            }   
+                Console.WriteLine("Your package weight is acceptable");
+            }
+            else
+            {
+                Console.WriteLine("Your package must be less than or equal to 50 lbs");
+            }
+
 
 
             Console.WriteLine("Please enter package height:");
@@ -41,8 +53,6 @@ namespace Branching
             if (dimensions > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                return;
             }
 
             int quote = dimensions * packWeight / 100;
