@@ -47,7 +47,8 @@ namespace Branching
                 {
                     throw new Exception();
                 }
-                int quote = dimensions * packWeight / 100;
+                int dimTotal = packHeight * packWidth * packLength;
+                int quote = dimTotal * packWeight / 100;
                 Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ".00");
 
                 Console.WriteLine("Thank you!");
