@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\bin\Debug\exceptionAssign.exe.config
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\bin\Debug\exceptionAssign.exe
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\bin\Debug\exceptionAssign.pdb
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\obj\Debug\exceptionAssign.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\obj\Debug\exceptionAssign.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\obj\Debug\exceptionAssign.exe
+C:\Users\Andrew Smith\Desktop\exceptionAssign\exceptionAssign\obj\Debug\exceptionAssign.pdb
